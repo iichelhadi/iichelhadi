@@ -14,7 +14,7 @@ Computational biologist and data scientist with 7+ years of experience in single
 - 🎯 [**Neoantigen_detection_pipeline**](https://github.com/iichelhadi/Neoantigen_detection_pipeline)  
   End-to-end WES + RNA-seq pipeline for tumor neoantigen discovery using paired tumor-normal samples. Includes variant calling, HLA typing, epitope prediction, and prioritization for immunotherapy applications.
 
-- 🧬 **RNA-seq Analysis Shiny App** ([link repo if public](https://github.com/iichelhadi/Shiny_apps/tree/main/RNA-seq_analysis_app))  
+- 🧬 [**RNA-seq Analysis Shiny App**]([link repo if public](https://github.com/iichelhadi/Shiny_apps/tree/main/RNA-seq_analysis_app))  
   An interactive Shiny application designed for analyzing RNA-seq data. The app offers an interactive interface that enables users to upload RNA-seq datasets, perform various analyses, and visualize the results directly within their browser. Designed for researchers with minimal coding experience.
 
 
