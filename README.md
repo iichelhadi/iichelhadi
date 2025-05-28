@@ -8,7 +8,7 @@ Computational biologist and data scientist with 7+ years of experience in single
 
 ## 🧪 Featured Projects
 
-- 💡 [**miedgeR**](https://github.com/iichelhadi/miedgeR)  
+- 💡 [**miEdgeR**](https://github.com/iichelhadi/miedgeR)  
   R package for mutual information-based gene regulatory network inference, hypergraph module detection, and pseudotime-aware analysis of single-cell RNA-seq data. Supports network integration with trajectory analysis.
 
 - 🎯 [**Neoantigen_detection_pipeline**](https://github.com/iichelhadi/Neoantigen_detection_pipeline)  
