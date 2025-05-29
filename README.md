@@ -1,6 +1,6 @@
 ## Hi, I’m Elhadi Iich, PhD
 
-Computational biologist and data scientist with 7+ years of experience in single-cell RNA-seq, multiomic analysis, and AI in healthcare. I develop scalable, reproducible pipelines and enjoy translating complex omics data into real-world insights.
+Biomedical scientist and data scientist with 7+ years of experience in single-cell RNA-seq, multi-omics analysis, and a growing focus on AI in healthcare.  I build scalable, reproducible pipelines and enjoy turning complex omics data into actionable insights.
 
 🔬 Expertise: scRNA-seq • SCENIC • Network Biology • Spatial Transcriptomics  
 📦 Tools: R, Python, Bioconductor, AWS, Docker, Git, Streamlit  
