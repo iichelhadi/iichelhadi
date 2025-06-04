@@ -9,7 +9,7 @@ Biomedical scientist and data scientist with 7+ years of experience in single-ce
 ## 🧪 Featured Projects
 
 - 💡 [**miEdgeR**](https://github.com/iichelhadi/miedgeR)  
-  R package for mutual information-based gene regulatory network inference, hypergraph module detection, and pseudotime-aware analysis of single-cell RNA-seq data. Supports integration with trajectory analysis tools.
+  R package for mutual information-based gene regulatory network inference, hypergraph module detection, and pseudotime-aware analysis of single-cell RNA-seq data.
 
 - 🎯 [**Neoantigen Detection Pipeline**](https://github.com/iichelhadi/Neoantigen_detection_pipeline)  
   End-to-end WES + RNA-seq pipeline for tumor neoantigen discovery using paired tumor-normal samples. Includes variant calling, HLA typing, epitope prediction, and prioritization for immunotherapy applications.
