@@ -17,7 +17,7 @@ Biomedical scientist and data scientist with 7+ years of experience in single-ce
 - 🧬 [**RNA-seq Analysis Shiny App**](https://github.com/iichelhadi/Shiny_apps/tree/main/RNA-seq_analysis_app)  
   Interactive Shiny app for analyzing and visualizing RNA-seq data. Enables users to upload datasets, perform various analyses, and explore results through a browser-based interface — no coding required.
 
-- 📊 [**RNA-seq Analysis Shiny App**](https://github.com/iichelhadi/Shiny_apps/tree/main/RNA-seq_analysis_app)  
-  Interactive browser-based app for bulk RNA-seq analysis. Supports differential expression analysis, PCA visualization, and customizable plots for biologists.
+- 🧬 [**scRNA-seq Analysis Shiny App**](https://github.com/iichelhadi/Shiny_apps/tree/main/scRNA-seq_analysis_app)  
+  Full-featured Shiny application for analyzing single-cell RNA-seq data. Includes doublet detection, dimensionality reduction, clustering, cell type annotation, and marker gene discovery — no coding required.
 
 📫 **Reach me:** [LinkedIn](https://linkedin.com/in/elhadi-i) • [Email](mailto:iichelhadi@gmail.com)
