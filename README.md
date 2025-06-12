@@ -3,7 +3,7 @@
 Biomedical scientist and data scientist with 7+ years of experience in single-cell RNA-seq, multi-omics analysis, and a growing focus on AI in healthcare.  I build scalable, reproducible pipelines and enjoy turning complex omics data into actionable insights.
 
 🔬 **Expertise:** scRNA-seq • SCENIC • Network Biology • Spatial Transcriptomics  
-📦 **Tools:** R, Python, Bioconductor, AWS, Docker, Git, Streamlit  
+📦 **Tools:** R, Python, Bioconductor, AWS, Singularity, Git  
 🧠 **Interests:** AI in biology • Disease modeling • Data-driven biotech
 
 ## 🧪 Featured Projects
