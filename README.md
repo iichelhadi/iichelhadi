@@ -15,9 +15,9 @@ Biomedical scientist and data scientist with 7+ years of experience in single-ce
   End-to-end WES + RNA-seq pipeline for tumor neoantigen discovery using paired tumor-normal samples. Includes variant calling, HLA typing, epitope prediction, and prioritization for immunotherapy applications.
 
 - 🧬 [**RNA-seq Analysis Shiny App**](https://github.com/iichelhadi/Shiny_apps/tree/main/RNA-seq_analysis_app)  
-  Interactive Shiny app for analyzing and visualizing RNA-seq data. Enables users to upload datasets, perform various analyses, and explore results through a browser-based interface — no coding required.
+  Interactive Shiny app for analyzing and visualizing RNA-seq data. Enables users to upload datasets, perform various analyses, and explore results through a browser-based interface - no coding required.
 
 - 🧬 [**scRNA-seq Analysis Shiny App**](https://github.com/iichelhadi/Shiny_apps/tree/main/scRNA-seq_analysis_app)  
-  Full-featured Shiny application for analyzing single-cell RNA-seq data. Includes doublet detection, dimensionality reduction, clustering, cell type annotation, and marker gene discovery — no coding required.
+  Full-featured Shiny application for analyzing single-cell RNA-seq data. Includes doublet detection, dimensionality reduction, clustering, cell type annotation, and marker gene discovery - no coding required.
 
 📫 **Reach me:** [LinkedIn](https://linkedin.com/in/elhadi-i) • [Email](mailto:iichelhadi@gmail.com)
