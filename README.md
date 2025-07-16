@@ -10,10 +10,10 @@ Biomedical scientist and data scientist with 7+ years of experience in single-ce
 
 ## 🧪 Featured Projects
 
-- 🧬 [**miEdgeR**](https://github.com/iichelhadi/miEdgeR)  
+- 📊 [**miEdgeR**](https://github.com/iichelhadi/miEdgeR)  
   R package for mutual information-based gene regulatory network inference, hypergraph module detection, and pseudotime-aware analysis of single-cell RNA-seq data.
 
-- 📊 [**NGS Pipelines**](https://github.com/iichelhadi/NGS)  
+- 🧬 [**NGS Pipelines**](https://github.com/iichelhadi/NGS)  
   Versioned and attribution-protected pipelines for RNA-seq, ChIP-seq, and QC workflows. Includes STAR, Bowtie2, featureCounts, and bamCoverage tools.
 
 - 🎯 [**Neoantigen Detection Pipeline**](https://github.com/iichelhadi/Neoantigen_detection_pipeline)  
@@ -22,7 +22,7 @@ Biomedical scientist and data scientist with 7+ years of experience in single-ce
 - 🖥️ [**RNA-seq Shiny App**](https://github.com/iichelhadi/Shiny_apps/tree/main/RNA-seq_analysis_app)  
   Browser-based RNA-seq analysis app with interactive differential expression, gene-level statistics, and visualization.
 
-- 🔬 [**scRNA-seq Shiny App**](https://github.com/iichelhadi/Shiny_apps/tree/main/scRNA-seq_analysis_app)  
+- 🖥️ [**scRNA-seq Shiny App**](https://github.com/iichelhadi/Shiny_apps/tree/main/scRNA-seq_analysis_app)  
   Full-featured Shiny tool for single-cell analysis: QC, clustering, annotation, and marker discovery — no coding required.
 
 ---
