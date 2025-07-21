@@ -1,4 +1,4 @@
-## Hi, I’m Elhadi Iich, PhD
+## Hi, I’m Elhadi Iich (PhD)
 
 Biomedical scientist and data scientist with 7+ years of experience in single-cell RNA-seq, multi-omics integration, and a growing focus on AI in healthcare. I build scalable, reproducible pipelines and turn complex omics data into actionable insights.
 
