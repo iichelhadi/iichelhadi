@@ -14,7 +14,7 @@ Biomedical scientist and data scientist with 7+ years of experience in single-ce
   R package for mutual information-based gene regulatory network inference, hypergraph module detection, and pseudotime-aware analysis of single-cell RNA-seq data.
 
 - 🧬 [**NGS Pipelines**](https://github.com/iichelhadi/NGS)  
-  Versioned and attribution-protected pipelines for RNA-seq, ChIP-seq, and QC workflows. Includes STAR, Bowtie2, featureCounts, and bamCoverage tools.
+  Pipelines for RNA-seq, ChIP-seq, and QC workflows. Includes STAR, Bowtie2, featureCounts, and bamCoverage tools.
 
 - 🎯 [**Neoantigen Detection Pipeline**](https://github.com/iichelhadi/Neoantigen_detection_pipeline)  
   WES + RNA-seq pipeline for tumor neoantigen discovery using paired tumor-normal data. Includes variant calling, HLA typing, epitope prediction, and prioritization.
