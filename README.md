@@ -23,7 +23,7 @@ Biomedical scientist and data scientist with 7+ years of experience in single-ce
   Browser-based RNA-seq analysis app with interactive differential expression, gene-level statistics, and visualization.
 
 - 🖥️ [**scRNA-seq Shiny App**](https://github.com/iichelhadi/Shiny_apps/tree/main/scRNA-seq_analysis_app)  
-  Full-featured Shiny tool for single-cell analysis: QC, clustering, annotation, and marker discovery — no coding required.
+  Full-featured Shiny tool for single-cell analysis: QC, clustering, annotation, and marker discovery - no coding required.
 
 ---
 
